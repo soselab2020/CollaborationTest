@@ -20,4 +20,8 @@ public class Calculator {
     public String greeting() {
         return "Hello Wrold";
     }
+    // hello teacher
+    public String greeting() {
+        return "Hello I am Flash!!!!!!!!";
+    }
 }
