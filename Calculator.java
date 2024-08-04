@@ -13,6 +13,6 @@ public class Calculator {
     }
 
     public int anannihao(int a, int b) {
-        return "anannihao";
+        return 1+1;
     }
 }
