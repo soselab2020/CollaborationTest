@@ -18,6 +18,6 @@ public class Calculator {
     }
     // hello world
     public String greeting() {
-        return "Hello Wrold";
+        return "Hello WENBY";
     }
 }
