@@ -20,4 +20,9 @@ public class Calculator {
     public String greeting() {
         return "Hello Wrold";
     }
+
+     // hello world
+    public String greeting() {
+        return "i'm sammie";
+    }
 }
