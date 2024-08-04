@@ -20,4 +20,6 @@ public class Calculator {
     public String greeting() {
         return "Hello Wrold";
     }
+
+    private int count;
 }
