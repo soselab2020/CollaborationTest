@@ -10,7 +10,7 @@ public class Calculator {
     }
     // 乘法
     public int multiply(int a, int b) {
-        return a * b;
+        return a * b + b;
     }
 
     public int divide(int a, int b) {
